@@ -1,9 +1,13 @@
 _repo: Mary-of-Burgundy-or-The-Revolt-of-Ghent_50854
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Magnus, Laurie
     gutenberg_agent_id: '46044'
     url: http://www.gutenberg.org/2009/agents/46044
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, G. P. R. (George Payne Rainsford)
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1301
     wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50854#Mary-of-Burgundy-or-The-Revolt-of-Ghent
 gutenberg_issued: '2016-01-06'
 gutenberg_type: Text
 identifiers:
